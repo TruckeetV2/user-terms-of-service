@@ -1,3 +1,8 @@
+---
+layout: default
+title: Your Page Title
+---
+
 ### 1. Contractual Relationship.
 These Terms of Use (“Terms”) govern the access or use by you, an individual of the Services (defined below). PLEASE READ THESE TERMS CAREFULLY BEFORE ACCESSING OR USING THE SERVICES.
 
