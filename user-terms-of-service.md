@@ -86,9 +86,11 @@ THIS AGREEMENT WILL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF 
 ### 10. User Cancellation & Refund Policy.
 
 1. Before a mover is confirmed
+   
 If you cancel before selecting a mover, no charge is made. Any temporary authorization hold on your card is fully released. Depending on your bank, the hold may take 5–10 business days to disappear from your statement.
 
-After a mover is confirmed
+**After a mover is confirmed**
+
 Once you have selected and confirmed a mover, a cancellation fee may apply based on how much notice you give before your scheduled move time.
 
 * More than 72 hours notice: your payment processing fee is non-refundable, but no additional cancellation fees apply.
@@ -97,10 +99,12 @@ Once you have selected and confirmed a mover, a cancellation fee may apply based
 
 Cancellation fees vary by move type and are calculated on your confirmed move price, excluding taxes.
 
-If your mover cancels
+**If your mover cancels**
+
 If your assigned mover cancels, your move is automatically re-listed to find a replacement. Your payment is held safely during this period. If a replacement mover confirms, your move continues as normal. If no replacement is found within the allowed window, you receive a full refund with no deductions. Refunds are returned to your original payment method and may take 5–10 business days to process.
 
-#Processing fees
+**Processing fees**
+
 Payment processing fees charged by our payment provider are non-refundable in all cancellation scenarios where a charge was captured.
 
 ### 11. Other Provisions.
