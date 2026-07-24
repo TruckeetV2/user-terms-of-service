@@ -88,14 +88,23 @@ THIS AGREEMENT WILL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF 
 
 2. General. You may not assign these Terms without Truckeet’s prior written approval. Truckeet may assign these Terms without your consent to: (i) a subsidiary or affiliate; (ii) an acquirer of Truckeet’s equity, business or assets; or (iii) a successor by merger. Any purported assignment in violation of this section shall be void. No joint venture, partnership, employment, or agency relationship exists between you, Truckeet or any Third Party Delivery Provider as a result of this Agreement or use of the Services. If any provision of these Terms is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall be enforced to the fullest extent under law. Truckeet’s failure to enforce any right or provision in these Terms shall not constitute a waiver of such right or provision unless acknowledged and agreed to by Truckeet in writing.
 
-### Privacy Policy
-Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
+## User Cancellation & Refund Policy
 
-* We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
-* We will only retain personal information as long as necessary for the fulfillment of those purposes.
-* We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
-* Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
-* We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
-* We will make readily available to customers information about our policies and practices relating to the management of personal information.
+### Before a mover is confirmed
+If you cancel before selecting a mover, no charge is made. Any temporary authorization hold on your card is fully released. Depending on your bank, the hold may take 5–10 business days to disappear from your statement.
 
-We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+### After a mover is confirmed
+Once you have selected and confirmed a mover, a cancellation fee may apply based on how much notice you give before your scheduled move time.
+
+* More than 72 hours notice: your payment processing fee is non-refundable, but no additional cancellation fees apply.
+* Between 24 and 72 hours notice: a cancellation fee applies. The remainder is refunded to your original payment method.
+* Less than 24 hours notice: a higher cancellation fee applies. The remainder is refunded to your original payment method.
+
+Cancellation fees vary by move type and are calculated on your confirmed move price, excluding taxes.
+
+### If your mover cancels
+If your assigned mover cancels, your move is automatically re-listed to find a replacement. Your payment is held safely during this period. If a replacement mover confirms, your move continues as normal. If no replacement is found within the allowed window, you receive a full refund with no deductions. Refunds are returned to your original payment method and may take 5–10 business days to process.
+
+### Processing fees
+Payment processing fees charged by our payment provider are non-refundable in all cancellation scenarios where a charge was captured.
+
