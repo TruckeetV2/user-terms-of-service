@@ -88,9 +88,9 @@ THIS AGREEMENT WILL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF 
 
 2. General. You may not assign these Terms without Truckeet’s prior written approval. Truckeet may assign these Terms without your consent to: (i) a subsidiary or affiliate; (ii) an acquirer of Truckeet’s equity, business or assets; or (iii) a successor by merger. Any purported assignment in violation of this section shall be void. No joint venture, partnership, employment, or agency relationship exists between you, Truckeet or any Third Party Delivery Provider as a result of this Agreement or use of the Services. If any provision of these Terms is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall be enforced to the fullest extent under law. Truckeet’s failure to enforce any right or provision in these Terms shall not constitute a waiver of such right or provision unless acknowledged and agreed to by Truckeet in writing.
 
-## User Cancellation & Refund Policy
+### User Cancellation & Refund Policy
 
-Before a mover is confirmed
+1. Before a mover is confirmed
 If you cancel before selecting a mover, no charge is made. Any temporary authorization hold on your card is fully released. Depending on your bank, the hold may take 5–10 business days to disappear from your statement.
 
 After a mover is confirmed
