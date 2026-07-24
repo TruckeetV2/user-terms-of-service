@@ -83,12 +83,7 @@ THIS AGREEMENT WILL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF 
 
 4. The intentional or non-intentional delay (including but not limited to delays of up to 10 minutes and above) of Third Party Delivery Drivers at your pick up location may result in additional charges at the sole discretion of the Third Party Delivery Drivers or the abandonment or cancellation of the delivery service request. Its your responsibility to have your item(s) to be delivered ready to be moved or as discussed in your submitted service request delivery pick up form. Truckeet (including its partners) accepts no issues, losses or damages that may arise as a result of such delays.
 
-### 10. Other Provisions.
-1. Notice. Truckeet may give notice by means of a general notice on the Services, electronic mail to your email address in your Account, or by written communication sent by first class mail or pre-paid post to your address in your Account. Such notice shall be deemed to have been given upon the expiration of 48 hours after mailing or posting (if sent by first class mail or pre-paid post) or 12 hours after sending (if sent by email).
-
-2. General. You may not assign these Terms without Truckeet’s prior written approval. Truckeet may assign these Terms without your consent to: (i) a subsidiary or affiliate; (ii) an acquirer of Truckeet’s equity, business or assets; or (iii) a successor by merger. Any purported assignment in violation of this section shall be void. No joint venture, partnership, employment, or agency relationship exists between you, Truckeet or any Third Party Delivery Provider as a result of this Agreement or use of the Services. If any provision of these Terms is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall be enforced to the fullest extent under law. Truckeet’s failure to enforce any right or provision in these Terms shall not constitute a waiver of such right or provision unless acknowledged and agreed to by Truckeet in writing.
-
-### User Cancellation & Refund Policy
+### 10. User Cancellation & Refund Policy.
 
 1. Before a mover is confirmed
 If you cancel before selecting a mover, no charge is made. Any temporary authorization hold on your card is fully released. Depending on your bank, the hold may take 5–10 business days to disappear from your statement.
@@ -107,4 +102,11 @@ If your assigned mover cancels, your move is automatically re-listed to find a r
 
 #Processing fees
 Payment processing fees charged by our payment provider are non-refundable in all cancellation scenarios where a charge was captured.
+
+### 11. Other Provisions.
+1. Notice. Truckeet may give notice by means of a general notice on the Services, electronic mail to your email address in your Account, or by written communication sent by first class mail or pre-paid post to your address in your Account. Such notice shall be deemed to have been given upon the expiration of 48 hours after mailing or posting (if sent by first class mail or pre-paid post) or 12 hours after sending (if sent by email).
+
+2. General. You may not assign these Terms without Truckeet’s prior written approval. Truckeet may assign these Terms without your consent to: (i) a subsidiary or affiliate; (ii) an acquirer of Truckeet’s equity, business or assets; or (iii) a successor by merger. Any purported assignment in violation of this section shall be void. No joint venture, partnership, employment, or agency relationship exists between you, Truckeet or any Third Party Delivery Provider as a result of this Agreement or use of the Services. If any provision of these Terms is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall be enforced to the fullest extent under law. Truckeet’s failure to enforce any right or provision in these Terms shall not constitute a waiver of such right or provision unless acknowledged and agreed to by Truckeet in writing.
+
+
 
