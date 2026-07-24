@@ -85,7 +85,7 @@ THIS AGREEMENT WILL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF 
 
 ### 10. User Cancellation & Refund Policy.
 
-1. Before a mover is confirmed
+**Before a mover is confirmed**
    
 If you cancel before selecting a mover, no charge is made. Any temporary authorization hold on your card is fully released. Depending on your bank, the hold may take 5–10 business days to disappear from your statement.
 
