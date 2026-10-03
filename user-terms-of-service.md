@@ -92,11 +92,9 @@ If you cancel before selecting a mover, no charge is made. Any temporary authori
 
 **After a mover is confirmed**
 Once you have selected and confirmed a mover, a cancellation fee may apply based on how much notice you give before your scheduled move time.
-
 * More than 72 hours notice: your payment processing fee is non-refundable, but no additional cancellation fees apply.
 * Between 24 and 72 hours notice: a cancellation fee applies. The remainder is refunded to your original payment method.
 * Less than 24 hours notice: a higher cancellation fee applies. The remainder is refunded to your original payment method.
-
 Cancellation fees vary by move type and are calculated on your confirmed move price, excluding taxes.
 
 **If your mover cancels**
@@ -105,19 +103,26 @@ If your assigned mover cancels, your move is automatically re-listed to find a r
 **Processing fees**
 Payment processing fees charged by our payment provider are non-refundable in all cancellation scenarios where a charge was captured.
 
+**Payment authorizations.** When you book a move on the Truckeet Platform, the amount is authorized as a hold on your payment method but not charged. Released holds are not refunds: the money never left your account, and the pending hold is removed from your statement by your card issuer, typically within a few business days.
+
+**Selection windows and automatic cancellation.** Move requests are matched within limited time windows that vary with how far in advance the move is scheduled. If no mover offers on your request within the applicable window, your request is cancelled automatically and your full payment authorization is released. If movers have made offers and you do not select one within the applicable selection window, your request is cancelled automatically, a platform fee plus applicable tax, as stated in the app, is charged, and the remainder of your authorization is released. The remaining time to select a mover is shown in the app. We may adjust these time windows and platform fees from time to time.
+
+**Ending a request.** You may end a move request at any time before selecting a mover. If no offers have been received, your full payment authorization is released and nothing is charged. If one or more offers have been received, a platform fee plus applicable tax, as stated in the app, is charged and the remainder of your authorization is released.
+
+**Mover cancellations and re-assignment.** If your assigned mover cancels or fails to start your move, we re-list it for other movers and notify you. If no replacement mover takes the move within the applicable window, the move is cancelled automatically and you receive a full refund of any amount charged.
+
+**Passed pickup times.** If your scheduled pickup time passes while your request has not been accepted or no offers have been on your request, you will be asked to choose a new pickup time. If none is chosen within the selection window, the request is cancelled automatically and your authorization released in full.
+
 ### 11. Helpers Brought by Movers.
-* Your mover is an independent mover and carries out your move independently of Truckeet.
-* Your mover may bring helpers at their own discretion. Movers are asked to let you know through the Truckeet app chat if they plan to.
-* If you feel your move needs extra hands, discuss it with your mover through the Truckeet app chat before the move.
-* Truckeet does not vet, and does not claim to know, any helper or extra hands your mover brings.
-* Any damage, incident or behaviour involving a helper brought by your mover is a matter between you and your mover. Truckeet is not responsible for it.
-* If you choose to help your mover lift, load or unload items, you do so at your own risk. Truckeet accepts no responsibility for any injury, strain, damage or loss arising from that choice.
-* Truckeet does not charge you for helpers and does not pay helpers.
-* Keep every arrangement about extra hands in the app chat, so there is a record if a question comes up later.
-* Truckeet does not itself provide helpers. If the app ever offers a helper service at the time of booking, those helpers are independent contractors like your mover, not Truckeet employees, and everything in this section applies to them as well. Any other helper on a move is brought by your mover.
-* Truckeet is a software platform that connects you with independent movers and facilitates your booking.
+Your mover is an independent mover and carries out your move independently of Truckeet. Your mover may bring helpers at their own discretion. Movers are asked to let you know through the Truckeet app chat if they plan to. If you feel your move needs extra hands, discuss it with your mover through the Truckeet app chat before the move. Truckeet does not vet, and does not claim to know, any helper or extra hands your mover brings. Any damage, incident or behaviour involving a helper brought by your mover is a matter between you and your mover. Truckeet is not responsible for it. If you choose to help your mover lift, load or unload items, you do so at your own risk. Truckeet accepts no responsibility for any injury, strain, damage or loss arising from that choice. Truckeet does not charge you for helpers and does not pay helpers. Keep every arrangement about extra hands in the app chat, so there is a record if a question comes up later. Truckeet does not itself provide helpers. If the app ever offers a helper service at the time of booking, those helpers are independent contractors like your mover, not Truckeet employees, and everything in this section applies to them as well. Any other helper on a move is brought by your mover. Truckeet is a software platform that connects you with independent movers and facilitates your booking.
 
+### 12. Completion a Move.
+Every move ends with a completion code. Your mover cannot complete the move in the app without it. When your mover has finished the job as agreed between you, provide your completion code in good faith. Providing the code confirms that you are satisfied the job was done to your satisfaction, and that you consent to the move being completed. Once your mover completes the move with your code, the move is closed and all dealings between you and the mover for that move are concluded. Do not provide your code in advance, whether over chat or in person. Once the move is completed as agreed between you and your mover, you can provide it over chat or in person, whichever you prefer or feel safe doing. Intentionally withholding your completion code for a move that was completed as agreed may lead to indefinite suspension from the Truckeet platform. Never share your code with anyone other than your assigned mover. Truckeet will never call, text, or email you asking for your completion code. If something is wrong with the job, raise it with your mover first. Movers are independent providers and do not work for Truckeet. If you cannot resolve it between you, report the issue through the app as soon as possible. Truckeet may assist at its discretion. Truckeet reserves the right, at any point and at its sole discretion, to complete a move or to provide the completion code to a mover, including where a customer declines to provide it for work Truckeet determines was completed as agreed.
 
+### 13. Payments & Disputes.
+(a) By booking a move through the Truckeet Platform, you authorize Truckeet to place a hold on your payment method for the upper end of your quoted price range, plus applicable taxes. When you confirm your mover, only the price of the mover you choose, plus applicable taxes, is captured. The captured amount will not be more than the amount held, and any remaining hold is released. (b) Providing your completion code to your mover confirms the services were delivered as booked. (c) If you believe a charge is incorrect, contact support before contacting your bank. Initiating a chargeback cancels any scheduled moves associated with the disputed payment and may result in account closure or permanent suspension.
+* **Disputed payments.** 
+If a scheduled move is cancelled because its payment was disputed with your bank, our standard cancellation terms and compensation do not apply. If the dispute is later resolved in Truckeet's favour, Truckeet may, as a goodwill gesture and at its sole discretion, refund the amount paid for the move, less a cancellation fee of 20% of the move price plus applicable taxes on that fee. Goodwill refunds are not guaranteed. Truckeet may withhold the refund if the dispute was made in bad faith, for example, providing false information, claiming a charge was unauthorized when you made the booking, claiming a move was not completed when it was, or disputing a charge you had already agreed to, or if you have previously disputed a payment with Truckeet. If issued, a refund will be made to the original payment method and may take up to 10 business days to appear on your statement. Refunds do not constitute an admission of liability.
 
 ### 11. Other Provisions.
 1. Notice. Truckeet may give notice by means of a general notice on the Services, electronic mail to your email address in your Account, or by written communication sent by first class mail or pre-paid post to your address in your Account. Such notice shall be deemed to have been given upon the expiration of 48 hours after mailing or posting (if sent by first class mail or pre-paid post) or 12 hours after sending (if sent by email).
