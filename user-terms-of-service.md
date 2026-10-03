@@ -26,6 +26,8 @@ You agree to not provide User Content that is defamatory, libelous, hateful, vio
 
 3. Network Access and Devices. You are responsible for obtaining the data network access necessary to use the Services. Your mobile network’s data and messaging rates and fees may apply if you access or use the Services from a wireless-enabled device. You are responsible for acquiring and updating compatible hardware or devices necessary to access and use the Services and Applications and any updates thereto. Truckeet does not guarantee that the Services, or any portion thereof, will function on any particular hardware or devices. In addition, the Services may be subject to malfunctions and delays inherent in the use of the Internet and electronic communications.
 
+4. You are responsible for checking the Truckeet app for updates and messages about your booked moves. If you turn off notifications, you may not be alerted when your mover sends a message, arrives, or asks for your completion code, and this does not change your obligations for those moves.
+
 ### 4. Delivery Calculation: Payment.
 1. Delivery Calculation and Your Payment. If you are ordering Delivery Services directly from Truckeet, you will be charged a fee for each completed Delivery Service provided to you by a Third Party Delivery Provider (“Charge”). You will have an opportunity prior to requesting Delivery to receive an estimate of the Charge based on parameters that you choose within the Application such as; pickup and drop-off locations and your estimation of loading and unloading time. You will receive a cost estimate based on the parameters you choose and the current market pricing. This is only an estimate and your actual Charge will be calculated upon completion of delivery, based upon the current pricing model for the market that you are requesting delivery (generally a combination of time and mileage costs). Truckeet will facilitate your payment of the applicable Charges on behalf of the Third Party Delivery Provider, as such Third Party Delivery Provider’s limited payment collection agent. Payment of the Charges in such manner shall be considered the same as payment made directly by you to the Third Party Delivery Provider. Charges paid by you are final and non-refundable, unless otherwise determined by Truckeet.
    
@@ -86,11 +88,9 @@ THIS AGREEMENT WILL BE GOVERNED BY AND CONSTRUED IN ACCORDANCE WITH THE LAWS OF 
 ### 10. User Cancellation & Refund Policy.
 
 **Before a mover is confirmed**
-   
 If you cancel before selecting a mover, no charge is made. Any temporary authorization hold on your card is fully released. Depending on your bank, the hold may take 5–10 business days to disappear from your statement.
 
 **After a mover is confirmed**
-
 Once you have selected and confirmed a mover, a cancellation fee may apply based on how much notice you give before your scheduled move time.
 
 * More than 72 hours notice: your payment processing fee is non-refundable, but no additional cancellation fees apply.
@@ -100,12 +100,14 @@ Once you have selected and confirmed a mover, a cancellation fee may apply based
 Cancellation fees vary by move type and are calculated on your confirmed move price, excluding taxes.
 
 **If your mover cancels**
-
 If your assigned mover cancels, your move is automatically re-listed to find a replacement. Your payment is held safely during this period. If a replacement mover confirms, your move continues as normal. If no replacement is found within the allowed window, you receive a full refund with no deductions. Refunds are returned to your original payment method and may take 5–10 business days to process.
 
 **Processing fees**
-
 Payment processing fees charged by our payment provider are non-refundable in all cancellation scenarios where a charge was captured.
+
+### 11. Helpers Brought by Movers.
+
+
 
 ### 11. Other Provisions.
 1. Notice. Truckeet may give notice by means of a general notice on the Services, electronic mail to your email address in your Account, or by written communication sent by first class mail or pre-paid post to your address in your Account. Such notice shall be deemed to have been given upon the expiration of 48 hours after mailing or posting (if sent by first class mail or pre-paid post) or 12 hours after sending (if sent by email).
