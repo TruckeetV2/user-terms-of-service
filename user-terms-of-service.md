@@ -106,6 +106,16 @@ If your assigned mover cancels, your move is automatically re-listed to find a r
 Payment processing fees charged by our payment provider are non-refundable in all cancellation scenarios where a charge was captured.
 
 ### 11. Helpers Brought by Movers.
+* Your mover is an independent mover and carries out your move independently of Truckeet.
+* Your mover may bring helpers at their own discretion. Movers are asked to let you know through the Truckeet app chat if they plan to.
+* If you feel your move needs extra hands, discuss it with your mover through the Truckeet app chat before the move.
+* Truckeet does not vet, and does not claim to know, any helper or extra hands your mover brings.
+* Any damage, incident or behaviour involving a helper brought by your mover is a matter between you and your mover. Truckeet is not responsible for it.
+* If you choose to help your mover lift, load or unload items, you do so at your own risk. Truckeet accepts no responsibility for any injury, strain, damage or loss arising from that choice.
+* Truckeet does not charge you for helpers and does not pay helpers.
+* Keep every arrangement about extra hands in the app chat, so there is a record if a question comes up later.
+* Truckeet does not itself provide helpers. If the app ever offers a helper service at the time of booking, those helpers are independent contractors like your mover, not Truckeet employees, and everything in this section applies to them as well. Any other helper on a move is brought by your mover.
+* Truckeet is a software platform that connects you with independent movers and facilitates your booking.
 
 
 
